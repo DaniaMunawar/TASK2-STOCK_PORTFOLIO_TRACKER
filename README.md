@@ -1,1 +1,2 @@
 # TASK2-STOCK_PORTFOLIO_TRACKER
+This is a command-line Python application that allows users to manage their stock investments. This tool uses the Alpha Vantage API to fetch real-time stock prices, enabling users to add stocks, remove stocks, and track the performance of their portfolio. The .env file containing sensitive information, such as API keys, is not uploaded for safety purposes. Users must obtain their own API keys from Alpha Vantage to run this code
